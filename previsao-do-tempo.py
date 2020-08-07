@@ -1,9 +1,9 @@
 #!/bin/env python3
 # -*- coding: utf-8 -*-
 
-# Este pequeno script obtem dados em XML do CPTEC/INPE (Centro de Previsão
-# de Tempo e Estudos Climáticos do Instituto Nacional de Pesquisas Espaciais)
-# para as cidades brasileiras e imprime o resultado no terminal.
+# This little script gets XML data from CPTEC / INPE (Forecast Center
+# of Time and Climate Studies of the National Institute for Space Research)
+# for Brazilian cities and print the result at the terminal.
 
 import urllib.request
 import xml.etree.ElementTree
